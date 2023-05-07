@@ -10,6 +10,7 @@ Por favor pasa por el archivo:
 * [introduccion.ipynb](introduccion.ipynb) si deseas entender el código empezando con un ejemplo pequeño
 * [teorema_de_lagrange.ipynb](teorema_de_lagrange.ipynb) si deseas visualizar una animación del Teorema de Lagrange puesto a prueba
 * [pendulo.ipynb](pendulo.ipynb) si deseas hacer una animación un tanto más compleja que incluye la animación de dos péndulos utilizando dos aproximaciones distintas (una usando la aproximación para ángulos pequeños y otra el método de Runge-Kutta de orden 4) y una manera aplicada de tener una simulación en tiempo real con fotogramas por segundos personalizados
+* [polinomio_de_taylor.ipynb](polinomio_de_taylor.ipynb) si deseas crear una animación para visualizar cómo mejora la aproximación por Taylor a medida que avanza su grado
 
 ## Autor ✒️
 
