@@ -12,6 +12,7 @@ Por favor pasa por el archivo:
 * [pendulo.ipynb](pendulo.ipynb) si deseas hacer una animación un tanto más compleja que incluye la animación de dos péndulos utilizando dos aproximaciones distintas (una usando la aproximación para ángulos pequeños y otra el método de Runge-Kutta de orden 4) y una manera aplicada de tener una simulación en tiempo real con fotogramas por segundos personalizados
 * [polinomio_de_taylor.ipynb](polinomio_de_taylor.ipynb) si deseas crear una animación para visualizar cómo mejora la aproximación por Taylor a medida que avanza su grado
 * [deformacion_soga.ipynb](deformacion_soga.ipynb) si deseas crear una animación para visualizar cómo evolucióna la deformación de una soga ideal al sufrir una perturbación en su centro
+* [equivalencia_radian_sexagesimal.ipynb](equivalencia_radian_sexagesimal.ipynb) si deseas crear una animación para entender con un ejemplo la equivalencia entre grados sexagesimales y radianes
 
 ## Autor ✒️
 
