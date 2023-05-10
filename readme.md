@@ -13,6 +13,7 @@ Por favor pasa por el archivo:
 * [polinomio_de_taylor.ipynb](polinomio_de_taylor.ipynb) si deseas crear una animación para visualizar cómo mejora la aproximación por Taylor a medida que avanza su grado
 * [deformacion_soga.ipynb](deformacion_soga.ipynb) si deseas crear una animación para visualizar cómo evolucióna la deformación de una soga ideal al sufrir una perturbación en su centro
 * [equivalencia_radian_sexagesimal.ipynb](equivalencia_radian_sexagesimal.ipynb) si deseas crear una animación para entender con un ejemplo la equivalencia entre grados sexagesimales y radianes
+* [secuencia_de_collatz.ipynb](secuencia_de_collatz.ipynb) si deseas crear una animación para visualizar la Secuencia de Collatz desde $n=1$ hasta $n=100$
 
 ## Autor ✒️
 
