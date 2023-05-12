@@ -21,6 +21,7 @@ Por favor pasa por el archivo:
 * [equivalencia_radian_sexagesimal.ipynb](equivalencia_radian_sexagesimal.ipynb) si deseas crear una animación para entender con un ejemplo la equivalencia entre grados sexagesimales y radianes
 * [secuencia_de_collatz.ipynb](secuencia_de_collatz.ipynb) si deseas crear una animación para visualizar la Secuencia de Collatz desde $n=1$ hasta $n=100$
 * [construccion_onda_cuadrada.ipynb](construccion_onda_cuadrada.ipynb) si deseas crear una animación para visualizar la construcción de una onda cuadrada usando desde el armónico 1 hasta el 2001
+* [construccion_integral.ipynb](construccion_integral.ipynb) si deseas crear una animación para visualizar la construcción de una integral utilizando la suma superior e inferior
 
 ## Autor ✒️
 
